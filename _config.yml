@@ -10,21 +10,17 @@
 ############################
 
 # Name of website
-title: Robert Todora
+title: Game Collection and Reviews
 
 # Your name to show in the footer
-author: robert-todora
+author: Archvile675
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+
 
 ################
 # --- Logo --- #
@@ -50,10 +46,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "rtodora@duck.com"
+#  email: "rtodora@duck.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: robert-todora
+#  github: robert-todora
 #  twitter: 
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -93,7 +89,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  linkedin: true
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -131,8 +127,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#343333"
+text-col: "#DEDEDE"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
